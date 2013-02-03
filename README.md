@@ -5,5 +5,5 @@ A python-based Clebsch-Gordan Coefficient calculator
 
 ## Requirements
 
-- Python (recent version)
+- Python (any within the last decade should be good)
 - PIL
